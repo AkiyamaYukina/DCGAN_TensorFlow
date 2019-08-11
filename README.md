@@ -1,4 +1,1 @@
-#RUA
-###一个DCGAN
-
-#####Tensorflow
+# DCGAN_TensorFlow
